@@ -1,0 +1,128 @@
+    <section class="section" id="isekai"> <!--isekai-->
+        <div class="container">
+    
+            <div class="section__header">
+                <h3 class="section__subtitle">Жанр:</h3>
+                <h2 class="section__title">Исекай</h2>
+                <div class="section__text">
+                    <p>
+                        В этом списке популярность аниме идет в порядке убывания (по строчкам). При нажатии на картинку, появится подробная информация по аниме.
+                    </p>
+                </div>
+            </div>
+    
+            <div class="slider slider__ganr slider__isekai">
+                 <div class="card" id = "first">  
+                        
+                 </div>
+    
+                 <div class="card" id = "second">  
+    
+                 </div>
+    
+                 <div class="card" id = "first">  
+    
+                 </div>
+    
+                 <div class="card" id = "second">  
+    
+                 </div>
+         </div>
+    
+             </div>
+    
+    
+        </div> <!-- /*container*/ -->
+    </section> <!-- /* section (container) */ -->
+
+
+
+
+ <section class="section" id="senen">
+       <div class="container">
+
+           <div class="section__header">
+               <h3 class="section__subtitle">Жанр:</h3>
+               <h2 class="section__title">Сёнэн</h2>
+               <div class="section__text">
+                   <p>
+                       В этом списке популярность аниме идет в порядке убывания (по строчкам). При нажатии на картинку, появится подробная информация по аниме.
+                   </p>
+               </div>
+           </div>
+
+           <div class="slider slider__ganr slider__senen">
+                <div class="card" id = "first">  
+                    
+                </div>
+
+                <div class="card" id = "second">  
+
+                </div>
+
+                <div class="card" id = "third">  
+
+                </div>
+
+                <div class="card" id = "fourth">  
+
+                </div>
+        </div>
+
+            </div>
+
+
+       </div> <!-- /*container*/ -->
+   </section> <!-- /* section (container) */ -->
+
+
+
+
+
+
+   <h2 class="services__ganre">традиционные</h2>
+        <div class="services">
+
+            <div class="services__item services__item--border">
+                <div class="services__title">Комедия</div>
+                <img class="services__icon" src="" alt="">
+                <div class="services__text">Все мы любим посмеяться и развеяться, но отдых не исключает поднятия серьезных, порой философских вопросов. Несмотря на то, что комедия является самостоятельным жанром, чаще всего мы видим ее в роли дополнения к другим (например романтическая комедия, или комедийный экшен). Сама по себе комедия может быть весьма разноплановой, от легких шуток, насмешек и забавных ситуаций, до жесткой сатиры.</div>
+            </div>
+
+            <div class="services__item services__item--border">
+                <div class="services__title">Драма</div>
+                <img class="services__icon" src="" alt="">
+                <div class="services__text">Наверное самый популярный жанр в искусстве, потому что именно она сильнее всего затрагивает струны человеческой души. Произведениям свойственна трагичность, глубокое противоречие чувств, конфликты и трудноразрешимые проблемы. Основной эстетикой драмы служат эмоционально-волевые реакции человека, выраженные в словах или поступках, а произошедшие события нередко имеют непоправимые последствия.</div>
+            </div>
+
+            <div class="services__item services__item--border">
+                <div class="services__title">Экшн</div>
+                <img class="services__icon" src="" alt="">
+                <div class="services__text">Зрелищные произведения с высокой динамикой повествования. Сюжет, несмотря на сильную эмоциональную напряженность, обычно достаточно прост и незатейлив, а основной упор сделан на аудиовизуальной составляющей.</div>
+            </div>
+
+            <div class="services__item services__item--border" data-scroll="#fantasy">
+                <div class="services__title">Фэнтези</div>
+                <img class="services__icon" src="" alt="">
+                <div class="services__text">Произведения о мирах которыми правят не наука и техника, а «меч и магия». Часто встречаются элементы западноевропейского фольклора, но нередко используется колорит Востока или элементы японской и китайской мифологии. Существование вымышленных существ и волшебных сил не объясняется с научной точки зрения, а является принятой нормой мироздания.</div>
+            </div>
+
+            <div class="services__item services__item--border">
+                <div class="services__title">Детектив</div>
+                <img class="services__icon" src="" alt="">
+                <div class="services__text">Жанр, описывающий исследование и раскрытие загадочного происшествия. Если в кино и литературе это чаще всего убийство, то в аниме это может быть поиск какой-нибудь безделушки или разоблачение хулиганов. Нюансы повествования будут сильно зависеть от целевой аудитории конкретной работы. </div>
+            </div>
+
+            <div class="services__item services__item--border">
+                <div class="services__title">Этти</div>
+                <img class="services__icon" src="" alt="">
+                <div class="services__text">Целевой аудиторией преимущественно являются мужчины, а главной особенностью выступает наличие в произведении эротических сцен. Сексуальные отношения не показываются напрямую, однако присутствует большое количество фансервиса. </div>
+            </div>
+
+               <div class="services__item services__item--last">
+                <div class="services__title">Исторический</div>
+                <img class="services__icon" src="" alt="">
+                <div class="services__text">Действия произведения связаны с конкретными историческими событиями или определенной эпохой. Чаще всего это эпизоды из истории Западной Европы, Японии или Китая. Сюжет может как соответствовать реальности, так и быть вымышленным, но происходить в подходящем сеттинге. </div>
+            </div>
+
+        </div>
